@@ -1,0 +1,6 @@
+.clangd/
+build/
+compile_commands.json
+tags
+*.tar*
+callgrind*
